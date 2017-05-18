@@ -1,11 +1,3 @@
-#Dear Reader
-#I know that some R user might familair with using SQL Statement or you might sometimes forget
-#how to retriving the data ,delete, add or modify the data in data frame. 
-#Here is the additional solutions for R user who might familiar with SQL Statement
-#
-#Best Regards,
-#Siroros R.
-
 
 #Create Data Frame
 ID <- c("001","002","003","004","005","006","007")
